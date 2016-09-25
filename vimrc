@@ -8,3 +8,4 @@ set background=light
 colorscheme scheakur
 
 set runtimepath^=~/.vim/bundle/ag
+set dictionary-=/usr/share/dict/words dictionary+=/usr/share/dict/words
