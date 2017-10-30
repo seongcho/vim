@@ -1,6 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/seongcho/Development/Projects/Turner/TICN/build/AndroidNative/app/src'
-let g:netrw_dirhist_2='/Users/seongcho/Development/Projects/Turner/TICN/build/AndroidNative/app/src/tv'
-let g:netrw_dirhist_3='/Users/seongcho/Development/Projects/Turner/TICN/build/AndroidNative/app/src/tv/youi'
-let g:netrw_dirhist_4='/Users/seongcho/Development/Projects/Turner/TICN/build/AndroidNative/app/src/tv/youi/youiengineone'
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/seongcho/Development/Projects/Turner'
+let g:netrw_dirhist_2='/Users/seongcho/Development/Projects'
+let g:netrw_dirhist_3='/Users/seongcho/Development'
+let g:netrw_dirhist_4='/Users/seongcho'
+let g:netrw_dirhist_5='/Users/seongcho/.vim'
