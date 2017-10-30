@@ -1,4 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Users/seongcho/Development/Projects/YouI/viper'
-let g:netrw_dirhist_2='/Users/seongcho/Development/Projects/YouI/viper/src'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/seongcho/Development/Projects/Turner/TICN/build/AndroidNative/app/src'
+let g:netrw_dirhist_2='/Users/seongcho/Development/Projects/Turner/TICN/build/AndroidNative/app/src/tv'
+let g:netrw_dirhist_3='/Users/seongcho/Development/Projects/Turner/TICN/build/AndroidNative/app/src/tv/youi'
+let g:netrw_dirhist_4='/Users/seongcho/Development/Projects/Turner/TICN/build/AndroidNative/app/src/tv/youi/youiengineone'

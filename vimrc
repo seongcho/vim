@@ -21,7 +21,7 @@ set hlsearch
 " colorscheme scheakur
 colorscheme atom
 
-set runtimepath^=~/.vim/bundle/ag
+set runtimepath^=~/.vim/bundle/ag,~/.vim/bundle/ctrlp.vim
 set dictionary-=/usr/share/dict/words dictionary+=/usr/share/dict/words
 
 " NERD commenter
